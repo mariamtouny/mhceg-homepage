@@ -1,8 +1,6 @@
-import { Menu } from 'lucide-react';
 import Image from "next/image"
 import { HiMenuAlt3 } from "react-icons/hi";
 import { Button } from "@/components/ui/button"
-import next from 'next';
 
 const Header: React.FC = () => {
   return (
